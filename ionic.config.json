@@ -1,0 +1,7 @@
+{
+  "name": "ionicSSR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
